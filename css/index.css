@@ -1,0 +1,115 @@
+*{
+	text-decoration: none;
+    list-style: none;
+    margin: 0px auto;
+    padding: 0px;
+    color: white;
+}
+body{
+	background-image: url(../img/bg.jpg);
+	height: 100%;
+	width: 100%;
+	background-position: center 0;
+    background-size: cover;
+    overflow: hidden;
+}
+p{
+	padding: 0 0 0 15px;
+	font-family: "微软雅黑";
+}
+header{
+	font-size: 30px;
+	font-family: "微软雅黑";
+	text-align: center;
+}
+iframe{
+    width:100%;
+    background-color:white;
+    height: 200px;
+    margin: 0;
+}
+#fmht{
+	display:block;
+}
+.ps{
+	color: white;
+	font-size: 18px;
+	font-style: inherit;
+	padding: 0 10px;
+}
+.content{
+	margin:5px auto 0;
+	width: 360px;
+	overflow: hidden;
+}
+
+.bd{
+		
+	height: 85px;
+	width: 60px;
+	margin: 5px 15px;
+	float: left;
+}
+
+.button{
+	margin-bottom:1px;
+}
+
+.button-font{
+	font-family: "微软雅黑";
+	font-size: 14px;
+	text-align: center;
+	display: block;
+}
+
+.jinniuzuo{
+	background-image: url(../img/jinniuzuo.svg);
+	background-size: auto 75%;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+.muyangzuo{
+	background-image: url(../img/muyangzuo.svg);
+	background-size: auto 75%;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+.shuangzizuo{
+	background-image: url(../img/shuangzizuo.svg);
+	background-size: auto 75%;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+.juxiezuo{
+	background-image: url(../img/juxiezuo.svg);
+	background-size: auto 75%;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+.xingzuo{
+	background-image: url(../img/xingzuo.svg);
+	background-size: auto 75%;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+.shuaxin{
+	background-image: url(../img/shuaxin.svg);
+	background-size: auto 75%;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+.bug{
+	background-image: url(../img/bug.svg);
+	background-size: auto 75%;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+.shizizuo{
+	background-image: url(../img/shizizuo.svg);
+	background-size: auto 112%;
+	background-repeat: no-repeat;
+	background-position: center;	
+}
+iframe{
+	height: 300px;
+}
